@@ -1,0 +1,55 @@
+.title {
+    text-align: left;
+}
+
+body {
+    background-color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+.img{
+    width: 100%;
+    height: 100%;
+}
+
+.navbar{
+    align-items: flex-end;
+}
+
+
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: purple;
+}
+
+
+.navbar-list{
+    text-align: right;
+    padding-right: 50px;
+}
+
+
+.home-link{
+    padding: 50px;
+    margin-top: 50px;
+}
+
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+li {
+    float : right;
+    padding : 0;
+    margin: 50px;
+ }
